@@ -89,69 +89,6 @@
       }, {
         "ID": 30,
         "Name": "New Hampshire"
-      }, {
-        "ID": 31,
-        "Name": "New Jersey"
-      }, {
-        "ID": 32,
-        "Name": "New Mexico"
-      }, {
-        "ID": 33,
-        "Name": "New York"
-      }, {
-        "ID": 34,
-        "Name": "North Carolina"
-      }, {
-        "ID": 35,
-        "Name": "Ohio"
-      }, {
-        "ID": 36,
-        "Name": "Oklahoma"
-      }, {
-        "ID": 37,
-        "Name": "Oregon"
-      }, {
-        "ID": 38,
-        "Name": "Pennsylvania"
-      }, {
-        "ID": 39,
-        "Name": "Rhode Island"
-      }, {
-        "ID": 40,
-        "Name": "South Carolina"
-      }, {
-        "ID": 41,
-        "Name": "South Dakota"
-      }, {
-        "ID": 42,
-        "Name": "Tennessee"
-      }, {
-        "ID": 43,
-        "Name": "Texas"
-      }, {
-        "ID": 44,
-        "Name": "Utah"
-      }, {
-        "ID": 45,
-        "Name": "Vermont"
-      }, {
-        "ID": 46,
-        "Name": "Virginia"
-      }, {
-        "ID": 47,
-        "Name": "Washington"
-      }, {
-        "ID": 48,
-        "Name": "West Virginia"
-      }, {
-        "ID": 49,
-        "Name": "Wisconsin"
-      }, {
-        "ID": 50,
-        "Name":"Wyoming"
-      }, {
-        "ID": 51,
-        "Name": "North Dakota"
       }
     ],
     "profile": {
