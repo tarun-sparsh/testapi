@@ -86,12 +86,6 @@
       }, {
         "ID": 29,
         "Name": "Nevada"
-      }, {
-        "ID": 30,
-        "Name": "New Hampshire"
       }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]    
 }
